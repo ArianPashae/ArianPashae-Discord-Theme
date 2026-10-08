@@ -1,118 +1,207 @@
 <div align="center">
 
-<img src="assets/logo.svg" width="96" height="96" alt="ArianPashae Logo" />
+<img src="assets/logo.svg" width="108" height="108" alt="ArianPashae Discord Theme Logo" />
 
-# ArianPashae Discord Theme
+# ArianPashae — Discord Theme
 
-**A modern cyber-violet & obsidian UI theme for Discord (Vencord & BetterDiscord), crafted by [ArianPashae](https://github.com/ArianPashae).**
+**A sleek, customizable Obsidian & Cyber-Violet theme for Discord, designed and engineered by [ArianPashae](https://github.com/ArianPashae).**
 
-[![Version](https://img.shields.io/badge/Version-2.0.0-a855f7?style=for-the-badge)](https://github.com/ArianPashae/ArianPashae-Discord-Theme)
-[![Author](https://img.shields.io/badge/Author-ArianPashae-d8b4fe?style=for-the-badge)](https://github.com/ArianPashae)
-[![Website](https://img.shields.io/badge/Website-arianpashae.com-6366f1?style=for-the-badge)](https://arianpashae.com)
-[![License](https://img.shields.io/badge/License-MIT-14141b?style=for-the-badge)](LICENSE)
+[![Download Theme](https://img.shields.io/badge/⬇_Download-ArianPashae.theme.css-a855f7?style=for-the-badge)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest/download/ArianPashae.theme.css)
+[![Latest Release](https://img.shields.io/github/v/release/ArianPashae/ArianPashae-Discord-Theme?style=for-the-badge&color=d8b4fe&label=Release)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest)
+[![GitHub Stars](https://img.shields.io/github/stars/ArianPashae/ArianPashae-Discord-Theme?style=for-the-badge&color=6366f1)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/stargazers)
+[![Website](https://img.shields.io/badge/Website-arianpashae.com-14141b?style=for-the-badge)](https://arianpashae.com)
+
+<br />
+
+**Supported Clients:** &nbsp; `Vencord` &nbsp;•&nbsp; `BetterDiscord` &nbsp;•&nbsp; `Vesktop` &nbsp;•&nbsp; `Replugged`
 
 </div>
 
 ---
 
-## Preview
+## ✨ Theme Preview
 
 ![ArianPashae Discord Theme Preview](assets/preview.png)
 
 ---
 
-## Key Features
+## 🚀 Features
 
-- **100% Self-Contained Vector Branding**: Includes an embedded SVG `AP` hexagon emblem on the Home button and a gradient `ARIANPASHAE` titlebar badge with zero external image dependencies.
-- **Obsidian & Cyber-Violet Palette**: Engineered around deep obsidian surfaces (`#14141b` / `#1f1f2b`) paired with electric violet (`#a855f7`) and soft lavender (`#d8b4fe`) accents.
-- **Auto-Expanding Member Drawer**: Keeps the chat area wide by collapsing the right-hand member list to `60px` and smoothly expanding it on hover.
-- **Modern Message Bubbles**: Styled chat messages with subtle borders, glowing avatars, and smooth hover elevation.
-- **Built-In Privacy Shield**: Automatically blurs sensitive account details in User Settings until hovered.
-
----
-
-## Installation
-
-### Method 1: Vencord / Vesktop
-1. Download [`ArianPashae-Standalone.theme.css`](ArianPashae-Standalone.theme.css) (or [`ArianPashae.theme.css`](ArianPashae.theme.css)).
-2. Open Discord **User Settings** → **Vencord** → **Themes**.
-3. Click **Open Themes Folder** and drop the `.theme.css` file inside.
-4. Enable the theme from the **Local Themes** tab.
-
-### Method 2: BetterDiscord
-1. Download [`ArianPashae-Standalone.theme.css`](ArianPashae-Standalone.theme.css) (or [`ArianPashae.theme.css`](ArianPashae.theme.css)).
-2. Open Discord **User Settings** → **BetterDiscord** → **Themes**.
-3. Click **Open Themes Folder** and move the downloaded file into the folder.
-4. Toggle **ArianPashae** on in your themes list.
+- **Obsidian & Cyber-Violet Palette** — Deep obsidian backgrounds (`#14141b` & `#1f1f2b`) paired with vibrant electric violet (`#a855f7`) and soft lavender (`#d8b4fe`) accents for a sharp, eye-friendly dark mode.
+- **Auto-Expanding Member Drawer** — Keeps your chat view wide by collapsing the right member list to `60px` and smoothly expanding it when hovered.
+- **Modern Message Bubbles** — Clean rounded message cards with subtle glowing borders and smooth avatar hover elevation.
+- **Built-In Streamer Privacy Shield** — Automatically blurs sensitive account fields in User Settings until you hover over them.
+- **Custom Vector Branding** — Features the signature `AP` hexagon Home button emblem and `ARIANPASHAE` titlebar badge with zero external image dependencies.
+- **100% Customizable** — Change colors, glow intensity, corner roundness, or the Home icon in seconds using simple CSS variables.
 
 ---
 
-## Customization (`:root` Tokens)
+## 📥 Installation Guide
 
-You can customize the colors, home button logo, and corner radii directly inside `ArianPashae.theme.css`:
+### Method 1: Vencord / Vesktop (Online Link — Fastest)
 
+If you use **Vencord** or **Vesktop**, you can load the theme directly without downloading any files:
+
+1. Open Discord **User Settings** ⚙️ → go to **Vencord** → **Themes**.
+2. Switch to the **Online Themes** tab.
+3. Paste the following link into the input box:
+
+```text
+https://arianpashae.github.io/ArianPashae-Discord-Theme/ArianPashae.theme.css
+```
+
+---
+
+### Method 2: BetterDiscord & Vencord (Local File — Recommended for Customization)
+
+Use this method if you use **BetterDiscord** or want to customize the theme's colors:
+
+1. [**Click here to download `ArianPashae.theme.css`**](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest/download/ArianPashae.theme.css) *(or download it from the [Releases](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases) page)*.
+2. Open Discord **User Settings** ⚙️ → scroll down to **BetterDiscord** (or **Vencord**) → click **Themes**.
+3. Click the **Open Themes Folder** button at the top.
+4. Drag and drop `ArianPashae.theme.css` into the folder that opens.
+5. Enable **ArianPashae** in your themes list.
+
+---
+
+## 🎨 How to Customize Colors & Style
+
+Open `ArianPashae.theme.css` in any text editor (such as Notepad or VS Code). You can edit any of the `:root` variables below and save the file to see your changes live in Discord:
+
+| Variable | Default Value | What It Controls |
+| :--- | :--- | :--- |
+| `--ap-surface-base` | `#14141b` | Main background across chat, channels, and sidebars |
+| `--ap-surface-elevated` | `#1f1f2b` | Message bubbles, input bars, popouts, and cards |
+| `--ap-surface-border` | `#2e2e40` | Subtle borders and dividers |
+| `--ap-brand-primary` | `#a855f7` | Main accent color (icons, badges, buttons, titles) |
+| `--ap-brand-secondary` | `#d8b4fe` | Links, active channel names, and hover highlights |
+| `--ap-brand-glow` | `rgba(168, 85, 247, 0.38)` | Glow effect around avatars and the Home button |
+| `--ap-home-emblem` | `url("data:image/svg+xml,...")` | Custom Home button icon (`url('https://...')` supported) |
+
+<details>
+<summary><b>🔥 Click to view Ready-to-Use Color Presets (Copy & Paste into ArianPashae.theme.css)</b></summary>
+
+<br />
+
+#### 1. Cyber Violet (Default)
 ```css
 :root {
-  /* Core Palette */
   --ap-surface-base: #14141b;
   --ap-surface-elevated: #1f1f2b;
   --ap-surface-border: #2e2e40;
   --ap-brand-primary: #a855f7;
   --ap-brand-secondary: #d8b4fe;
   --ap-brand-glow: rgba(168, 85, 247, 0.38);
-
-  /* Geometry & Motion */
-  --ap-radius-xs: 8px;
-  --ap-radius-sm: 12px;
-  --ap-radius-md: 16px;
-  --ap-radius-lg: 24px;
-  --ap-ease: 0.32s cubic-bezier(0.16, 1, 0.3, 1);
 }
 ```
+
+#### 2. Crimson Phantom (Red & Obsidian)
+```css
+:root {
+  --ap-surface-base: #141114;
+  --ap-surface-elevated: #221a1f;
+  --ap-surface-border: #38242c;
+  --ap-brand-primary: #f43f5e;
+  --ap-brand-secondary: #fda4af;
+  --ap-brand-glow: rgba(244, 63, 94, 0.38);
+}
+```
+
+#### 3. Oceanic Cyan (Cyber Blue)
+```css
+:root {
+  --ap-surface-base: #0f172a;
+  --ap-surface-elevated: #1e293b;
+  --ap-surface-border: #334155;
+  --ap-brand-primary: #38bdf8;
+  --ap-brand-secondary: #bae6fd;
+  --ap-brand-glow: rgba(56, 189, 248, 0.38);
+}
+```
+
+#### 4. Emerald Matrix (Neon Green)
+```css
+:root {
+  --ap-surface-base: #0f1715;
+  --ap-surface-elevated: #182723;
+  --ap-surface-border: #264039;
+  --ap-brand-primary: #10b981;
+  --ap-brand-secondary: #6ee7b7;
+  --ap-brand-glow: rgba(16, 185, 129, 0.38);
+}
+```
+
+</details>
 
 ---
 
 <div dir="rtl">
 
-## راهنمای فارسی
+## 🇮🇷 راهنمای نصب و استفاده (فارسی)
 
-تم اختصاصی **ArianPashae** برای دیسکورد با ترکیب رنگی مشکی ابسیدین و بنفش نئونی طراحی شده است. تمام آیکون‌ها و لوگوهای این تم به‌صورت گرافیک برداری (SVG) درون خود کد جاسازی شده‌اند و به هیچ لینک یا عکس خارجی وابسته نیستند.
+تم **ArianPashae** یک پوستهٔ مدرن، تاریک و شخصی‌سازی‌شده با ترکیب رنگی مشکی ابسیدین و بنفش نئونی برای دیسکورد است که توسط **[ArianPashae](https://github.com/ArianPashae)** طراحی و توسعه داده شده است.
 
-### ویژگی‌ها
+### ✨ قابلیت‌های تم
 
-- لوگوی وکتور اختصاصی `AP` روی دکمهٔ Home دیسکورد به همراه درخشش نئونی هنگام قرار گرفتن ماوس روی آن
-- نشان وکتور `ARIANPASHAE` در نوار بالای پنجرهٔ دیسکورد با گرادیان بنفش
-- حباب‌های پیام مدرن با حاشیهٔ ظریف و افکت درخشش آواتارها
-- لیست اعضای جمع‌شونده در سمت راست که فضای چت را بازتر می‌کند و با بردن ماوس روی آن باز می‌شود
-- تار شدن خودکار اطلاعات حساس اکانت در بخش تنظیمات کاربری برای حفظ حریم خصوصی در استریم یا اسکرین‌شات
+- طراحی چشم‌نواز با پس‌زمینهٔ ابسیدین (`#14141b`) و رنگ‌های بنفش نئونی (`#a855f7`) برای جلوگیری از خستگی چشم در استفادهٔ طولانی‌مدت
+- حباب‌های پیام مدرن همراه با درخشش نئونی دور آواتار کاربران
+- جمع شدن خودکار لیست اعضای سرور در سمت راست برای بازتر شدن فضای چت (با بردن ماوس روی لیست اعضا، به‌نرمی باز می‌شود)
+- مخفی‌سازی و تار شدن خودکار اطلاعات حساس اکانت در تنظیمات دیسکورد برای امنیت بیشتر هنگام استریم یا اشتراک‌گذاری صفحه
+- لوگوی وکتور اختصاصی `AP` روی دکمهٔ Home و نشان `ARIANPASHAE` در نوار بالای پنجره
 
-### روش نصب در Vencord و BetterDiscord
+---
 
-۱. فایل [`ArianPashae-Standalone.theme.css`](ArianPashae-Standalone.theme.css) را دانلود کنید.  
-۲. در تنظیمات دیسکورد به بخش **Themes** بروید و دکمهٔ **Open Themes Folder** را بزنید.  
-۳. فایل دانلودشده را داخل پوشهٔ بازشده قرار دهید و کلید تم **ArianPashae** را روشن کنید.
+### 🛠 آموزش نصب در دیسکورد
+
+#### روش اول: نصب سریع با لینک مستقیم (مخصوص Vencord و Vesktop)
+
+اگر از **Vencord** یا **Vesktop** استفاده می‌کنید، بدون نیاز به دانلود فایل می‌توانید تم را با لینک مستقیم فعال کنید:
+
+۱. وارد تنظیمات دیسکورد (**User Settings** ⚙️) شوید و از منوی کناری به بخش **Vencord** و سپس **Themes** بروید.  
+۲. وارد تب **Online Themes** شوید.  
+۳. لینک زیر را در کادر مربوطه کپی و پیست کنید تا تم در لحظه اعمال شود:
+
+<div dir="ltr">
+
+```text
+https://arianpashae.github.io/ArianPashae-Discord-Theme/ArianPashae.theme.css
+```
+
+</div>
+
+#### روش دوم: نصب با فایل تم (مخصوص BetterDiscord و Vencord)
+
+اگر از **BetterDiscord** استفاده می‌کنید یا می‌خواهید رنگ‌های تم را به سلیقهٔ خودتان تغییر دهید:
+
+۱. فایل [**`ArianPashae.theme.css`**](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest/download/ArianPashae.theme.css) را دانلود کنید.  
+۲. در دیسکورد وارد **User Settings** ⚙️ شوید و به بخش **Themes** (در قسمت BetterDiscord یا Vencord) بروید.  
+۳. روی دکمهٔ **Open Themes Folder** در بالای صفحه کلیک کنید تا پوشهٔ تم‌ها باز شود.  
+۴. فایل `ArianPashae.theme.css` را داخل این پوشه قرار دهید و از داخل دیسکورد کلید تم **ArianPashae** را روشن کنید.
+
+---
+
+### 🎨 آموزش تغییر رنگ‌ها و شخصی‌سازی
+
+برای تغییر رنگ‌های تم یا گذاشتن عکس دلخواه روی دکمهٔ Home، کافی است فایل `ArianPashae.theme.css` را با برنامهٔ Notepad یا VS Code باز کنید و کدهای رنگ داخل بخش `:root` را تغییر دهید:
+
+- متغیر `--ap-surface-base` برای رنگ پس‌زمینهٔ اصلی دیسکورد
+- متغیر `--ap-surface-elevated` برای رنگ حباب پیام‌ها و کادرهای چت
+- متغیر `--ap-brand-primary` برای رنگ اصلی تم (آیکون‌ها، دکمه‌ها و بج‌ها)
+- متغیر `--ap-brand-secondary` برای رنگ لینک‌ها و کانال‌های انتخاب‌شده
+- متغیر `--ap-home-emblem` برای تغییر لوگوی دکمهٔ Home در بالا سمت چپ
 
 </div>
 
 ---
 
-## Repository Structure
+## 👤 Author & Credits
 
-```text
-ArianPashae-Discord-Theme/
-├── ArianPashae.theme.css             # Lightweight loader theme file (@import)
-├── ArianPashae-Standalone.theme.css  # Full standalone theme file (works offline)
-├── src/
-│   └── main.css                      # Core stylesheet for GitHub Pages @import
-├── assets/
-│   ├── logo.svg                      # Standalone AP vector monogram
-│   └── preview.png                   # Full theme screenshot
-├── LICENSE                           # MIT License
-└── README.md                         # Documentation
-```
+Designed and maintained by **[ArianPashae](https://github.com/ArianPashae)**.
 
-## Author & Links
+- **GitHub**: [@ArianPashae](https://github.com/ArianPashae)
+- **Website**: [arianpashae.com](https://arianpashae.com)
+- **License**: Released under the [MIT License](LICENSE).
 
-- **Creator**: [ArianPashae](https://github.com/ArianPashae)
-- **Website**: [https://arianpashae.com](https://arianpashae.com)
-- **Repository**: [https://github.com/ArianPashae/ArianPashae-Discord-Theme](https://github.com/ArianPashae/ArianPashae-Discord-Theme)
+<div align="center">
+  <sub>If you enjoy using this theme, please consider giving the repository a ⭐ on GitHub!</sub>
+</div>
