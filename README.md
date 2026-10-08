@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="assets/logo.svg" width="108" height="108" alt="ArianPashae Discord Theme Logo" />
+<img src="assets/logo.svg" width="112" height="112" alt="ArianPashae Discord Theme Logo" />
 
 # ArianPashae — Discord Theme
 
 **A sleek, customizable Obsidian & Cyber-Violet theme for Discord, designed and engineered by [ArianPashae](https://github.com/ArianPashae).**
 
-[![Download Theme](https://img.shields.io/badge/⬇_Download-ArianPashae.theme.css-a855f7?style=for-the-badge)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest/download/ArianPashae.theme.css)
-[![Latest Release](https://img.shields.io/github/v/release/ArianPashae/ArianPashae-Discord-Theme?style=for-the-badge&color=d8b4fe&label=Release)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest)
-[![GitHub Stars](https://img.shields.io/github/stars/ArianPashae/ArianPashae-Discord-Theme?style=for-the-badge&color=6366f1)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/stargazers)
-[![Website](https://img.shields.io/badge/Website-arianpashae.com-14141b?style=for-the-badge)](https://arianpashae.com)
+[![Download Theme](https://img.shields.io/badge/Download-ArianPashae.theme.css-a855f7?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest/download/ArianPashae.theme.css)
+[![Latest Release](https://img.shields.io/github/v/release/ArianPashae/ArianPashae-Discord-Theme?style=for-the-badge&color=d8b4fe&label=Release&logo=github)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest)
+[![GitHub Stars](https://img.shields.io/github/stars/ArianPashae/ArianPashae-Discord-Theme?style=for-the-badge&color=6366f1&logo=github)](https://github.com/ArianPashae/ArianPashae-Discord-Theme/stargazers)
+[![Website](https://img.shields.io/badge/Website-arianpashae.com-14141b?style=for-the-badge&logo=googlechrome&logoColor=d8b4fe)](https://arianpashae.com)
 
 <br />
 
@@ -19,13 +19,13 @@
 
 ---
 
-## ✨ Theme Preview
+## <img src="assets/icons/preview.svg" width="24" height="24" align="absmiddle" /> &nbsp;Theme Preview
 
 ![ArianPashae Discord Theme Preview](assets/preview.png)
 
 ---
 
-## 🚀 Features
+## <img src="assets/icons/sparkles.svg" width="24" height="24" align="absmiddle" /> &nbsp;Features
 
 - **Obsidian & Cyber-Violet Palette** — Deep obsidian backgrounds (`#14141b` & `#1f1f2b`) paired with vibrant electric violet (`#a855f7`) and soft lavender (`#d8b4fe`) accents for a sharp, eye-friendly dark mode.
 - **Auto-Expanding Member Drawer** — Keeps your chat view wide by collapsing the right member list to `60px` and smoothly expanding it when hovered.
@@ -36,13 +36,13 @@
 
 ---
 
-## 📥 Installation Guide
+## <img src="assets/icons/download.svg" width="24" height="24" align="absmiddle" /> &nbsp;Installation Guide
 
 ### Method 1: Vencord / Vesktop (Online Link — Fastest)
 
 If you use **Vencord** or **Vesktop**, you can load the theme directly without downloading any files:
 
-1. Open Discord **User Settings** ⚙️ → go to **Vencord** → **Themes**.
+1. Open Discord **User Settings** → go to **Vencord** → **Themes**.
 2. Switch to the **Online Themes** tab.
 3. Paste the following link into the input box:
 
@@ -57,14 +57,14 @@ https://arianpashae.github.io/ArianPashae-Discord-Theme/ArianPashae.theme.css
 Use this method if you use **BetterDiscord** or want to customize the theme's colors:
 
 1. [**Click here to download `ArianPashae.theme.css`**](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest/download/ArianPashae.theme.css) *(or download it from the [Releases](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases) page)*.
-2. Open Discord **User Settings** ⚙️ → scroll down to **BetterDiscord** (or **Vencord**) → click **Themes**.
+2. Open Discord **User Settings** → scroll down to **BetterDiscord** (or **Vencord**) → click **Themes**.
 3. Click the **Open Themes Folder** button at the top.
 4. Drag and drop `ArianPashae.theme.css` into the folder that opens.
 5. Enable **ArianPashae** in your themes list.
 
 ---
 
-## 🎨 How to Customize Colors & Style
+## <img src="assets/icons/palette.svg" width="24" height="24" align="absmiddle" /> &nbsp;How to Customize Colors & Style
 
 Open `ArianPashae.theme.css` in any text editor (such as Notepad or VS Code). You can edit any of the `:root` variables below and save the file to see your changes live in Discord:
 
@@ -79,7 +79,7 @@ Open `ArianPashae.theme.css` in any text editor (such as Notepad or VS Code). Yo
 | `--ap-home-emblem` | `url("data:image/svg+xml,...")` | Custom Home button icon (`url('https://...')` supported) |
 
 <details>
-<summary><b>🔥 Click to view Ready-to-Use Color Presets (Copy & Paste into ArianPashae.theme.css)</b></summary>
+<summary><img src="assets/icons/presets.svg" width="18" height="18" align="absmiddle" /> &nbsp;<b>Click to view Ready-to-Use Color Presets (Copy & Paste into ArianPashae.theme.css)</b></summary>
 
 <br />
 
@@ -137,11 +137,11 @@ Open `ArianPashae.theme.css` in any text editor (such as Notepad or VS Code). Yo
 
 <div dir="rtl">
 
-## 🇮🇷 راهنمای نصب و استفاده (فارسی)
+## <img src="assets/icons/globe.svg" width="24" height="24" align="absmiddle" /> &nbsp;راهنمای نصب و استفاده (فارسی)
 
 تم **ArianPashae** یک پوستهٔ مدرن، تاریک و شخصی‌سازی‌شده با ترکیب رنگی مشکی ابسیدین و بنفش نئونی برای دیسکورد است که توسط **[ArianPashae](https://github.com/ArianPashae)** طراحی و توسعه داده شده است.
 
-### ✨ قابلیت‌های تم
+### <img src="assets/icons/sparkles.svg" width="20" height="20" align="absmiddle" /> &nbsp;قابلیت‌های تم
 
 - طراحی چشم‌نواز با پس‌زمینهٔ ابسیدین (`#14141b`) و رنگ‌های بنفش نئونی (`#a855f7`) برای جلوگیری از خستگی چشم در استفادهٔ طولانی‌مدت
 - حباب‌های پیام مدرن همراه با درخشش نئونی دور آواتار کاربران
@@ -151,13 +151,13 @@ Open `ArianPashae.theme.css` in any text editor (such as Notepad or VS Code). Yo
 
 ---
 
-### 🛠 آموزش نصب در دیسکورد
+### <img src="assets/icons/download.svg" width="20" height="20" align="absmiddle" /> &nbsp;آموزش نصب در دیسکورد
 
 #### روش اول: نصب سریع با لینک مستقیم (مخصوص Vencord و Vesktop)
 
 اگر از **Vencord** یا **Vesktop** استفاده می‌کنید، بدون نیاز به دانلود فایل می‌توانید تم را با لینک مستقیم فعال کنید:
 
-۱. وارد تنظیمات دیسکورد (**User Settings** ⚙️) شوید و از منوی کناری به بخش **Vencord** و سپس **Themes** بروید.  
+۱. وارد تنظیمات دیسکورد (**User Settings**) شوید و از منوی کناری به بخش **Vencord** و سپس **Themes** بروید.  
 ۲. وارد تب **Online Themes** شوید.  
 ۳. لینک زیر را در کادر مربوطه کپی و پیست کنید تا تم در لحظه اعمال شود:
 
@@ -174,13 +174,13 @@ https://arianpashae.github.io/ArianPashae-Discord-Theme/ArianPashae.theme.css
 اگر از **BetterDiscord** استفاده می‌کنید یا می‌خواهید رنگ‌های تم را به سلیقهٔ خودتان تغییر دهید:
 
 ۱. فایل [**`ArianPashae.theme.css`**](https://github.com/ArianPashae/ArianPashae-Discord-Theme/releases/latest/download/ArianPashae.theme.css) را دانلود کنید.  
-۲. در دیسکورد وارد **User Settings** ⚙️ شوید و به بخش **Themes** (در قسمت BetterDiscord یا Vencord) بروید.  
+۲. در دیسکورد وارد **User Settings** شوید و به بخش **Themes** (در قسمت BetterDiscord یا Vencord) بروید.  
 ۳. روی دکمهٔ **Open Themes Folder** در بالای صفحه کلیک کنید تا پوشهٔ تم‌ها باز شود.  
 ۴. فایل `ArianPashae.theme.css` را داخل این پوشه قرار دهید و از داخل دیسکورد کلید تم **ArianPashae** را روشن کنید.
 
 ---
 
-### 🎨 آموزش تغییر رنگ‌ها و شخصی‌سازی
+### <img src="assets/icons/palette.svg" width="20" height="20" align="absmiddle" /> &nbsp;آموزش تغییر رنگ‌ها و شخصی‌سازی
 
 برای تغییر رنگ‌های تم یا گذاشتن عکس دلخواه روی دکمهٔ Home، کافی است فایل `ArianPashae.theme.css` را با برنامهٔ Notepad یا VS Code باز کنید و کدهای رنگ داخل بخش `:root` را تغییر دهید:
 
@@ -194,14 +194,10 @@ https://arianpashae.github.io/ArianPashae-Discord-Theme/ArianPashae.theme.css
 
 ---
 
-## 👤 Author & Credits
+## <img src="assets/icons/author.svg" width="24" height="24" align="absmiddle" /> &nbsp;Author & Credits
 
 Designed and maintained by **[ArianPashae](https://github.com/ArianPashae)**.
 
 - **GitHub**: [@ArianPashae](https://github.com/ArianPashae)
 - **Website**: [arianpashae.com](https://arianpashae.com)
 - **License**: Released under the [MIT License](LICENSE).
-
-<div align="center">
-  <sub>If you enjoy using this theme, please consider giving the repository a ⭐ on GitHub!</sub>
-</div>
