@@ -201,4 +201,3 @@ Designed and maintained by **[ArianPashae](https://github.com/ArianPashae)**.
 - **GitHub**: [@ArianPashae](https://github.com/ArianPashae)
 - **Website**: [arianpashae.com](https://arianpashae.com)
 - **License**: Released under the [MIT License](LICENSE).
-<!-- Theme verified -->
