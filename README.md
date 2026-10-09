@@ -201,3 +201,8 @@ Designed and maintained by **[ArianPashae](https://github.com/ArianPashae)**.
 - **GitHub**: [@ArianPashae](https://github.com/ArianPashae)
 - **Website**: [arianpashae.com](https://arianpashae.com)
 - **License**: Released under the [MIT License](LICENSE).
+
+
+## 🤝 Collaborative Development & Community
+Contributions, issue reports, and community feature suggestions are always welcome.
+See the [Discussions](https://github.com/ArianPashae/ArianPashae-Discord-Theme/discussions) tab to participate in theme evolution and release roadmaps.
